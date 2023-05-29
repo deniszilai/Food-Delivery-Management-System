@@ -1,0 +1,12 @@
+BILL 
+
+ORDER NR: 10
+CLIENT: client
+DATE: 2022-05-17T17:03:01.829982200
+
+DESCRIPTION
+Title   Rating   Calories   Protein   Fat   Sodium   Price
+
+"""Bloody Mary"" Tomato Toast with Celery and Horseradish "   5.0   189   2   16   517   16.0
+-----------------------------------------------------------
+TOTAL PRICE: 16.0

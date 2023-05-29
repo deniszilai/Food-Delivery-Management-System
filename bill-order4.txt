@@ -1,0 +1,12 @@
+BILL 
+
+ORDER NR: 4
+CLIENT: client
+DATE: 2022-05-16T17:26:10.165045
+
+DESCRIPTION
+Title   Rating   Calories   Protein   Fat   Sodium   Price
+
+"""Blanketed"" Eggplant "   3.75   1386   105   98   578   88.0
+-----------------------------------------------------------
+TOTAL PRICE: 88.0

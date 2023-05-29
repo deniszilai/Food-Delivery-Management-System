@@ -1,0 +1,12 @@
+BILL 
+
+ORDER NR: 7
+CLIENT: client
+DATE: 2022-05-16T17:27:05.644156900
+
+DESCRIPTION
+Title   Rating   Calories   Protein   Fat   Sodium   Price
+
+"""Cocotte"" of Vegetables "   3.75   196   8   14   272   93.0
+-----------------------------------------------------------
+TOTAL PRICE: 93.0

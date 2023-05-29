@@ -1,0 +1,12 @@
+BILL 
+
+ORDER NR: 12
+CLIENT: client
+DATE: 2022-05-17T17:25:51.724212700
+
+DESCRIPTION
+Title   Rating   Calories   Protein   Fat   Sodium   Price
+
+"""Brown on Blonde"" Blondies "   0.0   321   5   18   120   96.0
+-----------------------------------------------------------
+TOTAL PRICE: 96.0
